@@ -1,0 +1,38 @@
+#container{
+    display: flex;
+    height: 100px;
+    background-color: #fbf7e3;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menu{
+    display: flex;
+  background-color: #f3df85;
+  color:#733916;
+  justify-content: center;
+  align-items: center;
+
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  height: 40px;
+  width: 100px;
+ 
+}
+
+#shop{
+    font-weight: 700;
+    height: 70px;
+    width: 150px;
+}
+img{
+    width: 40px;
+    height: 30px;
+    padding-right: 2rem;
+}
